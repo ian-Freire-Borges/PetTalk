@@ -30,6 +30,7 @@ A aplicação é composta pelas seguintes seções:
 - 📞 **Footer** com informações de contato
 
 ## 📸 Prints da Aplicação
+![Captura de tela 2025-05-30 070417](https://github.com/user-attachments/assets/e7944b48-7b3a-42ce-8251-8d0822f91fc3)
 
 
 
