@@ -1,12 +1,51 @@
-# React + Vite
+# Link Do Vercel: https://pet-talk-ruddy.vercel.app/
+# 🐾 PetTalk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**PetTalk** é uma aplicação web moderna e responsiva desenvolvida com **React** que simula uma plataforma de tradução e comunicação com pets. O projeto apresenta uma estrutura clara, intuitiva e profissional, ideal para demonstração de habilidades em front-end e criação de interfaces atraentes.
 
-Currently, two official plugins are available:
+## 📑 Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O PetTalk é um projeto fictício que visa demonstrar como seria uma plataforma capaz de:
 
-## Expanding the ESLint configuration
+- Traduzir sons de animais (latidos, miados, rosnados) em mensagens compreensíveis.
+- Integrar com assistentes virtuais como Alexa e Google Home.
+- Facilitar a comunicação entre humanos e seus pets.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias Utilizadas
+
+- **React** com React Router
+- **React Bootstrap** para responsividade
+- **HTML5 + CSS3**
+- **JavaScript (ES6+)**
+
+## 📱 Estrutura da Página
+
+A aplicação é composta pelas seguintes seções:
+
+- ✅ **Header** com navegação
+- 🎯 **Apresentação principal** do produto
+- ⚙️ **Funcionalidades** com ícones
+- 💬 **Depoimentos** de usuários fictícios
+- 💰 **Tabela de Planos**
+- 📞 **Footer** com informações de contato
+
+## 📸 Prints da Aplicação
+
+
+
+## 🛠️ Como Executar o Projeto Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/pettalk.git
+
+# Acesse o diretório
+cd pettalk
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
+
+#ou acesse o link https://pet-talk-ruddy.vercel.app/
