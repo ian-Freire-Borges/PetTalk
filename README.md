@@ -32,6 +32,11 @@ A aplicação é composta pelas seguintes seções:
 ## 📸 Prints da Aplicação
 ![Captura de tela 2025-05-30 070417](https://github.com/user-attachments/assets/e7944b48-7b3a-42ce-8251-8d0822f91fc3)
 
+![Captura de tela 2025-05-30 070352](https://github.com/user-attachments/assets/934f3b8f-27a8-4acb-8d02-761c83a21465)
+
+![Captura de tela 2025-05-30 070315](https://github.com/user-attachments/assets/ad2320f8-6d8f-4175-9b76-797d7a66e1c3)
+
+![Captura de tela 2025-05-30 070246](https://github.com/user-attachments/assets/8db837bf-32bc-4dcb-8537-529f7d130ddc)
 
 
 ## 🛠️ Como Executar o Projeto Localmente
