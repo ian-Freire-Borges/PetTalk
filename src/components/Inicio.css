@@ -1,0 +1,9 @@
+#imgPet {
+  width: 100%;                
+  max-width: 400px;           
+  height: 350px;              
+  object-fit: cover;          
+  display: block;
+  margin: 3rem auto 1rem;
+  border-radius: 12px;
+}

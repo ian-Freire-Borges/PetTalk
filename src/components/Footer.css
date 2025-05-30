@@ -1,0 +1,8 @@
+.trademark-text{
+    font-size: 1rem;
+}
+@media (max-width: 500px) {
+  .trademark-text {
+    font-size: 0.5rem; 
+  }
+}
