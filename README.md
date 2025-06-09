@@ -1,3 +1,4 @@
+# IMPORTANTE git da versão sem React >>>>>> https://github.com/ian-Freire-Borges/petTalks-jsPuro
 # Link Do Vercel: https://pet-talk-ruddy.vercel.app/
 # 🐾 PetTalk
 
